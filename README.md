@@ -1,9 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Kim%20Boseok's%20git&animation=twinkling&color=BEEAFB)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&animation=twinkling&color=BEEAFB)
 
 
 ## To become good developer ✌ 
-
+<img src="https://media.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif" width="200">
 ### 🌱 I’m sudying...
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -19,3 +19,5 @@
  
  ### ⚙ my stats
  ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edder773&show_icons=true&theme=dark)
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edder773)](https://solved.ac/edder773/)
