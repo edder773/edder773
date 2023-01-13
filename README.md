@@ -1,16 +1,21 @@
-### Hi there 👋
--🌱 ㄱㄱㄱㄱ
-<!--
-**edder773/edder773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Kim%20Boseok's%20git&animation=twinkling&color=BEEAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## To become good developer ✌ 
+
+### 🌱 I’m sudying...
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&style=flat-square)
+
+### 
+
+### ⚡ contact me
+ 
+ <a href="edder773@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+ 
+ ### ⚙ my stats
+ ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edder773&show_icons=true&theme=dark)
