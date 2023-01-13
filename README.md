@@ -1,9 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&animation=twinkling&color=BEEAFB)
 
+<img src="https://media.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif" width="200">
 
 ## To become good developer ✌ 
-<img src="https://media.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif" width="200">
+
 
 ### 🌱 I’m sudying...
 
