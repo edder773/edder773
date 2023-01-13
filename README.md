@@ -4,6 +4,7 @@
 
 ## To become good developer ✌ 
 <img src="https://media.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif" width="200">
+
 ### 🌱 I’m sudying...
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
