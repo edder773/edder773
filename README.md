@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&animation=twinkling&color=BEEAFB)
 
-<img src="https://media.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif" width="200">
 
 ## To become good developer ✌ 
 
@@ -18,7 +17,7 @@
 
 ### ⚡ contact me
  
- <a href="edder773@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+ <a href="edder773@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=edder773@gmail.com"/></a>
  
  ### ⚙ my stats
  ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edder773&show_icons=true&theme=dark)
