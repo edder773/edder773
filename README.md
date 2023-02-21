@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&animation=twinkling&color=BEEAFB)
 
 
-## To become good developer ✌ 
+## To become good developer
 
 
 ### 🌱 I’m sudying...
