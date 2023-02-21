@@ -17,7 +17,7 @@
 
 ### ⚡ contact me
  
- <a href="edder773@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=edder773@gmail.com"/></a>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:edder7734@gmail.com)
  
  ### ⚙ my stats
  ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edder773&show_icons=true&theme=dark)
