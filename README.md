@@ -23,3 +23,5 @@
  ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edder773&show_icons=true&theme=dark)
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edder773)](https://solved.ac/edder773/)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edder773)](https://github.com/anuraghazra/github-readme-stats)
