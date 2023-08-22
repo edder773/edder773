@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Welcome&animation=twinkling&color=BEEAFB)
 ## 📌Introduce
-알고리즘을 통해 백엔드 단의 효율적인 코드, 가독성 좋은 코드를 구현할 수 있는 개발자를 목표로 하고 있습니다.
+알고리즘을 통해 효율적인 코드, 가독성 좋은 코드를 구현할 수 있는 개발자를 목표로 하고 있습니다.
 
 나에 대한 자세한 정보가 궁금하다면   🌈 My Portfolio >>(<a href="https://ambitious-cafe-d87.notion.site/Portfolio-2c0775d71f3644b09c9b5b9d51f81b92"> En</a> | <a href="https://ambitious-cafe-d87.notion.site/27c0fc4ef4ec4abe94e9ca14fa0aedd4"> Ko <a>) <<
 
@@ -20,12 +20,15 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 ### 📘 Front-End 📘
 <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+
 ### 📙 Back-End 📙
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
