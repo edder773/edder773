@@ -3,7 +3,7 @@
 ## 📌Introduce
 알고리즘을 통해 효율적인 코드, 가독성 좋은 코드를 구현할 수 있는 개발자를 목표로 하고 있습니다.
 
-나에 대한 자세한 정보가 궁금하다면   🌈 My Portfolio >>(<a href="https://ambitious-cafe-d87.notion.site/Portfolio-2c0775d71f3644b09c9b5b9d51f81b92"> En</a> | <a href="https://ambitious-cafe-d87.notion.site/27c0fc4ef4ec4abe94e9ca14fa0aedd4"> Ko <a>) <<
+<!-- 나에 대한 자세한 정보가 궁금하다면   🌈 My Portfolio >>(<a href="https://ambitious-cafe-d87.notion.site/Portfolio-2c0775d71f3644b09c9b5b9d51f81b92"> En</a> | <a href="https://ambitious-cafe-d87.notion.site/27c0fc4ef4ec4abe94e9ca14fa0aedd4"> Ko <a>) << -->
 
 #### 👇 Contact me 👇
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:edder7734@gmail.com)
