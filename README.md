@@ -28,17 +28,51 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-
+<br/>
+<img src="https://img.shields.io/badge/Redux-764ABC?&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/axios-5A29E4?&logo=axios&logoColor=white">
+<img src="https://img.shields.io/badge/ReactRouter-CA4245?&logo=reactrouter&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-4B32C3?&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?&logo=chartdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Mui-007FFF?&logo=mui&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?&logo=styledcomponents&logoColor=white">
+    
 ### 📙 Back-End 📙
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-02303A?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?&logo=jsonwebtokens&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?&logo=hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?&logo=mariaDB&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/FeignClient-00A0DF?logo=spring&logoColor=white">
+
+### 📕 CI/Cd 📕
+<img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/ubuntu-E95420?&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/amazon EC2-FF9900?&logo=amazon ec2&logoColor=white">
+<img src="https://img.shields.io/badge/amazon S3-569A31?&logo=amazons3&logoColor=white">
 
 
-### 📕 Others 📕
+### 📒Co-work tools📒
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?&logo=GitLab&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira Software&logoColor=white">
+<img src="https://img.shields.io/badge/Mattermost-0058CC?&logo=Mattermost&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white">
+
+### 📓 Others 📓
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white&style=flat-square)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&style=flat-square)
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 ### 🔗Summary🔗
 
