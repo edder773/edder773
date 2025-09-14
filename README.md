@@ -3,13 +3,6 @@
 ## 📌Introduce
 알고리즘을 통해 효율적인 코드, 가독성 좋은 코드를 구현할 수 있는 개발자를 목표로 하고 있습니다.
 
-<!-- 나에 대한 자세한 정보가 궁금하다면   🌈 My Portfolio >>(<a href="https://ambitious-cafe-d87.notion.site/Portfolio-2c0775d71f3644b09c9b5b9d51f81b92"> En</a> | <a href="https://ambitious-cafe-d87.notion.site/27c0fc4ef4ec4abe94e9ca14fa0aedd4"> Ko <a>) << -->
-
-#### 👇 Contact me 👇
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:edder7734@gmail.com)
-<a href="https://edder773.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://edder773.tistory.com"/></a>
-<hr>
-
 ## 🌱 My Stacks & Skills...
 
 
@@ -65,7 +58,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira Software&logoColor=white">
 <img src="https://img.shields.io/badge/Mattermost-0058CC?&logo=Mattermost&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white">
 
@@ -84,11 +76,3 @@
 |python|Java|
 |------|---|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edder773)](https://solved.ac/edder773/)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=edder774)](https://solved.ac/edder774/)|
-
-<hr>
-
- 
- 
- ### ⚒️ my stats
- ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edder773&show_icons=true&theme=dark)
-
